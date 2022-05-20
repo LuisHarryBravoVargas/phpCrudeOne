@@ -1,0 +1,13 @@
+codigo:
+nombre:
+apellidos:
+email:
+telefono (opcional):
+tipo de participacion /*este es un radio*/: individual grupo
+preparatoria:
+bachillerato:
+materia:
+titulo:
+competencia a desarrollar:
+justificacion:
+fundamentacion
